@@ -103,7 +103,7 @@ def decode_qr_code(image_path):
 
 if __name__ == "__main__":
     # Change this to your image path
-    image_file = "qr_code.png"
+    image_file = "qrcode.png"
     
     # Decode the QR code
     results = decode_qr_code(image_file)
